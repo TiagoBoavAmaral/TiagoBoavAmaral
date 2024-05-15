@@ -69,3 +69,5 @@
 </div>
 
 -----
+
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=TiagoBoavAmaral"/>
