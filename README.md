@@ -14,7 +14,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/TiagoBoavAmaral" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://replit.com/@aramuni"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -46,7 +46,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Tiago</code>, tenho 17 anos, moro em BH e estou estudando pro. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Tiago</code>, tenho 17 anos, moro em BH e estou estudando progamação. Atualmente sou <code>aluno</code> no curso de Engenharia De Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
 </div>
 
 -----
