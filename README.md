@@ -33,7 +33,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Tiago</code>, tenho 17 anos, moro em Belo Horizonete - MG e estou estudando progamação. Atualmente sou <code>aluno</code> no curso de Engenharia De Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> no primeiro período.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Tiago</code>, tenho 18 anos, moro em Belo Horizonete - MG e estou estudando progamação. Atualmente sou <code>aluno</code> no curso de Engenharia De Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> no primeiro período.</i> :man_teacher:<br />
 </div>
 
 -----
