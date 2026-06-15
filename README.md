@@ -47,22 +47,6 @@
 
 -----
 
-<div>
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Tiago's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=hpsynelmervfb8ojbvijipw5d" alt="Data Card for Spotify">
-</details>
-</div>
-<div>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/TiagoBoav" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=TiagoBoav&width=400"/></a>
-</div>
-<div>
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=hpsynelmervfb8ojbvijipw5d&count=10"/>
-</div>
-</div>
 
------
 
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=TiagoBoavAmaral"/>
